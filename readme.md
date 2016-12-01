@@ -1,1 +1,3 @@
-Voici un simple essaie de reproduction de la page de connexion de facebook qui fut donné en tant qu'exercice d'intégration.
+# Facebook integration
+## Reproduction de la page de connexion de facebook.
+proposé en exercice de développement WEB
